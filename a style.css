@@ -1,0 +1,18 @@
+*{
+    link-box {
+        display: block;
+        width: 200px;
+        padding: 20px;
+        background-color: #4CAF50;
+        color: white;
+        text-align: center;
+        text-decoration: none;
+        border-radius: 5px;
+        margin: 10px auto;
+        transition: background-color 0.3s;
+    }
+
+    .link-box:hover {
+        background-color: #45a049;
+    }
+}
